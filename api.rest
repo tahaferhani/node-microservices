@@ -1,0 +1,8 @@
+POST http://localhost:3000/order
+Content-Type: application/json
+
+{
+    "product": "641ef76d2ba0b1aa7633072b",
+    "qty": 2,
+    "total": 120000
+}
